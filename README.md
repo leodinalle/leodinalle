@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou Leonardo Dinale
 
-<!--
-**leodinalle/leodinalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor Full Stack** apaixonado por criar soluções modernas e escaláveis.  
+Trabalho com **React, Vue, Next.js e Node.js**, além de experiência com integrações API e bancos de dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo:
+- **Front-end:** React.js, Vue.js, Next.js, TailwindCSS
+- **Back-end:** Node.js, Express
+- **Outros:** TypeScript, Git
+
+---
+
+## 🔥 Projetos em Destaque:
+### 🌐 [Portfólio Pessoal](https://leodinalle.vercel.app/)
+Desenvolvido com **React + TypeScript**, responsivo e integrado a GitHub Pages/Vercel.
+
+### ✅ [Sistema de Regiões (Vue.js)](https://github.com/leodinalle/sistema-regioes-vuejs)
+Aplicação para gerenciamento de regiões por estado, utilizando **Vue.js**.
+
+---
+
+📫 **Como me encontrar:**  
+- [LinkedIn](https://www.linkedin.com/in/leonardo-alves-melo-dinale-254a23281/)  
+- [GitHub](https://github.com/leodinalle)  
+- ✉️ leodinalle@gmail.com
