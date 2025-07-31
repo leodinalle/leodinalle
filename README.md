@@ -20,14 +20,16 @@
 ---
 
 ### 📌 Projetos em Destaque:
+
 ✔ **[Portfólio Pessoal](https://leodinalle.vercel.app/)**  
 Desenvolvido com **React + TypeScript**, responsivo e integrado à Vercel.
 
 ✔ **[Sistema de Regiões (Vue.js)](https://github.com/leodinalle/sistema-regioes-vuejs)**  
 Aplicação para gerenciamento de regiões por estado, utilizando **Vue.js**.
 
-✔ **[Portfólio Animado](https://portfolio-animado-pied.vercel.app/)**<br>
-Desenvolvido com **Vue.js 3 CSS3 JavaScript ES6+ Vite**, responsivo e integrado à Vercel.
+✔ **[Portfólio Animado](https://portfolio-animado-pied.vercel.app/)**  
+Desenvolvido com **Vue.js 3**, **CSS3 (Animações e Parallax)**, **JavaScript ES6+**, **Vite (Build Tool)**, responsivo e integrado à Vercel.
+
 ---
 
 ### 📊 Estatísticas:
