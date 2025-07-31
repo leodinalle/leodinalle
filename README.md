@@ -27,7 +27,7 @@ Desenvolvido com **React + TypeScript**, responsivo e integrado à Vercel.
 Aplicação para gerenciamento de regiões por estado, utilizando **Vue.js**.
 
 ✔ **[Portfólio Animado](https://portfolio-animado-pied.vercel.app/)**
-Desenvolvido com **Vue.js 3** **CSS3** **JavaScript ES6+** **Vite**, responsivo e integrado à Vercel.
+Desenvolvido com **Vue.js 3 CSS3 JavaScript ES6+ Vite**, responsivo e integrado à Vercel.
 ---
 
 ### 📊 Estatísticas:
